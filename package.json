@@ -4,7 +4,7 @@
   "version": "2.5.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zloirock/core-js.git"
+    "url": "https://github.com/prathyushaletznav/letznav-core-js.git"
   },
   "main": "index.js",
   "devDependencies": {
